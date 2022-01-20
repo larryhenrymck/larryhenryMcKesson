@@ -4,10 +4,10 @@
 **Pulled from my personal profile at larryhenry544/larryhenry544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working towards earning more abount McKesson and the Healthcare and Pharmaceuticals industry.
-- 🌱 I’m currently learning TensorFlow and McKesson's programs and services.
+- 🔭 I’m currently working towards completing my M.S. in Data Analytics and certification in TensorFlow.
+- 🌱 I’m currently learning TensorFlow.
 - 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking grow and collaborate with my and help drive business decisions.
+- 🤔 I’m looking grow and collaborate with my team and help drive business decisions.
 - 💬 Ask me about Data Analytics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/larry-henry-jr/)
 - 😄 Pronouns: He/His
